@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mm\-mastery\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mm\-mastery\.com$
+RewriteRule ^/?$ "https\:\/\/majinnmultiservicemastery\.com\/" [R=301,L]
+

@@ -1,0 +1,151 @@
+/* ----------------------------------------------------------------
+    Custom CSS for Black & White Theme with Gradient Effects
+-----------------------------------------------------------------*/
+
+/* 1. Black background everywhere except the slider/hero section */
+body,
+html,
+#wrapper,
+#content,
+.section:not(#slider):not(.chapel-bg-image),
+.container:not(#slider):not(.chapel-bg-image),
+.row,
+.page-section,
+.content-wrap,
+footer,
+header,
+div:not(#slider):not(.chapel-bg-image),
+section:not(#slider):not(.chapel-bg-image) {
+  background: #000 !important;
+  background-color: #000 !important;
+}
+
+/* 2. Make all text white by default */
+body, body * {
+  color: #fff !important;
+}
+
+/* 3. Headings: white, keep font */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.heading-block .emphasis-title,
+.heading-block .emphasis-title *,
+.heading-block h2,
+.heading-block h3,
+.heading-block h4,
+.heading-block h5,
+.heading-block h6,
+.emphasis-title,
+.emphasis-title *,
+.text-gold,
+.gold,
+.text-medium {
+  color: #fff !important;
+  font-family: nautica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2.mb-0 {
+  font-weight: 600;
+}
+
+/* 4. Links: white, invert on hover/active */
+a {
+  color: #fff !important;
+  text-decoration: none;
+  transition: color 0.2s, background 0.2s;
+}
+a:hover,
+a:active {
+  color: #000 !important;
+  background: #fff !important;
+}
+
+/* 5. Menu links: white text, gradient on hover/active */
+.primary-menu .menu-link > div,
+.primary-menu .menu-link {
+  background: transparent !important;
+  color: #fff !important;
+  transition: background 0.3s, color 0.3s;
+}
+.primary-menu .menu-link:hover > div,
+.primary-menu .menu-link:focus > div,
+.primary-menu .menu-link.active > div,
+.primary-menu .menu-link:hover,
+.primary-menu .menu-link:focus,
+.primary-menu .menu-link.active {
+  background: linear-gradient(90deg, #fff 0%, #000 100%) !important;
+  color: #000 !important;
+}
+
+/* 6. Sub-menu: same gradient effect */
+.sub-menu-container .menu-link > div,
+.sub-menu-container .menu-link {
+  background: transparent !important;
+  color: #fff !important;
+}
+.sub-menu-container .menu-link:hover > div,
+.sub-menu-container .menu-link:focus > div,
+.sub-menu-container .menu-link.active > div,
+.sub-menu-container .menu-link:hover,
+.sub-menu-container .menu-link:focus,
+.sub-menu-container .menu-link.active {
+  background: linear-gradient(90deg, #fff 0%, #000 100%) !important;
+  color: #000 !important;
+}
+
+/* 7. Buttons: white bg, black text, gradient on hover */
+.button,
+.btn {
+  background: #fff !important;
+  color: #000 !important;
+  border: 1px solid #fff !important;
+  transition: background 0.3s, color 0.3s, border 0.3s;
+}
+.button:hover,
+.btn:hover,
+.button:focus,
+.btn:focus {
+  background: linear-gradient(90deg, #fff 0%, #000 100%) !important;
+  color: #000 !important;
+  border: 1px solid #fff !important;
+}
+
+/* 8. #gotoTop: black/white theme */
+#gotoTop {
+  transition: background-color 0.3s ease;
+  background-color: #000 !important;
+  color: #fff !important;
+}
+#gotoTop:hover {
+  background: linear-gradient(90deg, #fff 0%, #000 100%) !important;
+  color: #000 !important;
+}
+
+/* 9. Center menu items */
+.primary-menu {
+  margin: 0 auto;
+  text-align: center;
+}
+.primary-menu li {
+  display: inline;
+  margin-right: 15px;
+}
+
+/* 10. Remove gold/red coloring from old styles */
+.text-gold,
+.gold,
+.text-primary,
+.text-secondary,
+.text-warning,
+.text-yellow,
+.text-accent,
+a.text-gold,
+a.gold,
+a.text-primary,
+a.text-secondary,
+a.text-warning,
+a.text-yellow,
+a.text-accent {
+  color: #fff !important;
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="chart-utils.js" server="204.48.20.115//var/www/html/" local="131365151840000000" remote="133379137390000000" Dst="2" />
+<file name="chart.js" server="204.48.20.115//var/www/html/" local="133232381240000000" remote="133379137360000000" Dst="2" />
+<file name="chartjs-plugin-zoom.min.js" server="204.48.20.115//var/www/html/" local="132784662140000000" remote="133379137430000000" Dst="2" />
+<file name="events-data.js" server="204.48.20.115//var/www/html/" local="133127628400000000" remote="133379137420000000" Dst="2" />
+<file name="functions.bundle.js" server="204.48.20.115//var/www/html/" local="133305647300000000" remote="133379137370000000" Dst="2" />
+<file name="functions.js" server="204.48.20.115//var/www/html/" local="133303967540000000" remote="133379137380000000" Dst="2" />
+<file name="holder.js" server="204.48.20.115//var/www/html/" local="133127742340000000" remote="133379137410000000" Dst="2" />
+<file name="jquery.calendario.js" server="204.48.20.115//var/www/html/" local="132900358160000000" remote="133379137390000000" Dst="2" />
+<file name="jquery.hotspot.js" server="204.48.20.115//var/www/html/" local="133217334920000000" remote="133379137400000000" Dst="2" />
+<file name="jquery.js" server="204.48.20.115//var/www/html/" local="132597624100000000" remote="133379137450000000" Dst="2" />
+<file name="jquery.mousewheel.min.js" server="204.48.20.115//var/www/html/" local="130602177260000000" remote="133379137420000000" Dst="2" />
+<file name="plugins.bootstrap.js" server="204.48.20.115//var/www/html/" local="133301418900000000" remote="133379137400000000" Dst="2" />
+<file name="plugins.carousel.js" server="204.48.20.115//var/www/html/" local="133120676500000000" remote="133379137430000000" Dst="2" />
+<file name="plugins.clipboard.js" server="204.48.20.115//var/www/html/" local="133214718940000000" remote="133379137410000000" Dst="2" />
+<file name="plugins.cookie.js" server="204.48.20.115//var/www/html/" local="133229626180000000" remote="133379137350000000" Dst="2" />
+<file name="plugins.countdown.js" server="204.48.20.115//var/www/html/" local="133205533320000000" remote="133379137400000000" Dst="2" />
+<file name="plugins.counter.js" server="204.48.20.115//var/www/html/" local="133144622580000000" remote="133379137440000000" Dst="2" />
+<file name="plugins.dribbble.js" server="204.48.20.115//var/www/html/" local="133205533760000000" remote="133379137440000000" Dst="2" />
+<file name="plugins.easing.js" server="204.48.20.115//var/www/html/" local="132731132320000000" remote="133379137450000000" Dst="2" />
+<file name="plugins.fitvids.js" server="204.48.20.115//var/www/html/" local="133205535780000000" remote="133379137450000000" Dst="2" />
+<file name="plugins.flexslider.js" server="204.48.20.115//var/www/html/" local="133142528900000000" remote="133379137440000000" Dst="2" />
+<file name="plugins.flickrfeed.js" server="204.48.20.115//var/www/html/" local="133205535980000000" remote="133379137340000000" Dst="2" />
+<file name="plugins.form.js" server="204.48.20.115//var/www/html/" local="133229628060000000" remote="133379137340000000" Dst="2" />
+<file name="plugins.gmap.js" server="204.48.20.115//var/www/html/" local="133205537120000000" remote="133379137410000000" Dst="2" />
+<file name="plugins.hashchange.js" server="204.48.20.115//var/www/html/" local="132234180180000000" remote="133379137380000000" Dst="2" />
+<file name="plugins.imagesloaded.js" server="204.48.20.115//var/www/html/" local="132226526860000000" remote="133379137430000000" Dst="2" />
+<file name="plugins.infinitescroll.js" server="204.48.20.115//var/www/html/" local="132234319260000000" remote="133379137440000000" Dst="2" />
+<file name="plugins.isotope.js" server="204.48.20.115//var/www/html/" local="133205538220000000" remote="133379137340000000" Dst="2" />
+<file name="plugins.jpaginate.js" server="204.48.20.115//var/www/html/" local="132234293840000000" remote="133379137430000000" Dst="2" />
+<file name="plugins.js" server="204.48.20.115//var/www/html/" local="133301418900000000" remote="133379137370000000" Dst="2" />
+<file name="plugins.lazyload.js" server="204.48.20.115//var/www/html/" local="133229629500000000" remote="133379137390000000" Dst="2" />
+<file name="plugins.lightbox.js" server="204.48.20.115//var/www/html/" local="133234387600000000" remote="133379137420000000" Dst="2" />
+<file name="plugins.min.js" server="204.48.20.115//var/www/html/" local="133301418900000000" remote="133379137390000000" Dst="2" />
+<file name="plugins.packery.js" server="204.48.20.115//var/www/html/" local="133205539240000000" remote="133379137410000000" Dst="2" />
+<file name="plugins.parallax.js" server="204.48.20.115//var/www/html/" local="133223098760000000" remote="133379137350000000" Dst="2" />
+<file name="plugins.piechart.js" server="204.48.20.115//var/www/html/" local="133205539600000000" remote="133379137400000000" Dst="2" />
+<file name="plugins.prism.js" server="204.48.20.115//var/www/html/" local="133214821380000000" remote="133379137360000000" Dst="2" />
+<file name="plugins.stickysidebar.js" server="204.48.20.115//var/www/html/" local="133205540200000000" remote="133379137370000000" Dst="2" />
+<file name="plugins.swiper.js" server="204.48.20.115//var/www/html/" local="133301417620000000" remote="133379137420000000" Dst="2" />
+<file name="plugins.textrotator.js" server="204.48.20.115//var/www/html/" local="133229631640000000" remote="133379137350000000" Dst="2" />
+<file name="plugins.youtube.js" server="204.48.20.115//var/www/html/" local="133205541200000000" remote="133379137350000000" Dst="2" />
+</dwsync>

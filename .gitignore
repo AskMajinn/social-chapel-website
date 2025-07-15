@@ -1,0 +1,7 @@
+*.zip
+*.mp4
+*.mov
+*.psd
+*.bak
+node_modules/
+.DS_Store

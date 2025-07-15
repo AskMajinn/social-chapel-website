@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_accordion.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146770000000" Dst="2" />
+<file name="_alert.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146810000000" Dst="2" />
+<file name="_badge.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146760000000" Dst="2" />
+<file name="_breadcrumb.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146760000000" Dst="2" />
+<file name="_button-group.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146770000000" Dst="2" />
+<file name="_buttons.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146780000000" Dst="2" />
+<file name="_card.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146800000000" Dst="2" />
+<file name="_carousel.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146760000000" Dst="2" />
+<file name="_close.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146790000000" Dst="2" />
+<file name="_containers.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146740000000" Dst="2" />
+<file name="_dropdown.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146830000000" Dst="2" />
+<file name="_forms.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146780000000" Dst="2" />
+<file name="_functions.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146740000000" Dst="2" />
+<file name="_grid.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146800000000" Dst="2" />
+<file name="_helpers.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146770000000" Dst="2" />
+<file name="_images.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146790000000" Dst="2" />
+<file name="_list-group.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146790000000" Dst="2" />
+<file name="_maps.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146830000000" Dst="2" />
+<file name="_mixins.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146800000000" Dst="2" />
+<file name="_modal.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146820000000" Dst="2" />
+<file name="_nav.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146800000000" Dst="2" />
+<file name="_navbar.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146740000000" Dst="2" />
+<file name="_offcanvas.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146750000000" Dst="2" />
+<file name="_pagination.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146800000000" Dst="2" />
+<file name="_placeholders.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146770000000" Dst="2" />
+<file name="_popover.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146750000000" Dst="2" />
+<file name="_progress.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146750000000" Dst="2" />
+<file name="_reboot.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146770000000" Dst="2" />
+<file name="_root.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146810000000" Dst="2" />
+<file name="_spinners.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146820000000" Dst="2" />
+<file name="_tables.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146780000000" Dst="2" />
+<file name="_toasts.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146740000000" Dst="2" />
+<file name="_tooltip.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146810000000" Dst="2" />
+<file name="_transitions.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146810000000" Dst="2" />
+<file name="_type.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146830000000" Dst="2" />
+<file name="_utilities.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146780000000" Dst="2" />
+<file name="_variables-dark.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146820000000" Dst="2" />
+<file name="_variables.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146750000000" Dst="2" />
+<file name="bootstrap-grid.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146790000000" Dst="2" />
+<file name="bootstrap-reboot.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146830000000" Dst="2" />
+<file name="bootstrap-utilities.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146820000000" Dst="2" />
+<file name="bootstrap.scss" server="204.48.20.115//var/www/html/" local="133301102680000000" remote="133379146760000000" Dst="2" />
+</dwsync>
