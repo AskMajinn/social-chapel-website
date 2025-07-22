@@ -2,36 +2,48 @@
 <html dir="ltr" lang="en-US">
 
 <head>
+
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
 	<meta name="author" content="SemiColonWeb">
-	<meta name="description" content="Thank You - The Social Chapel">
+	<meta name="description" content="The Social Chapel - Thank you for your Other Events inquiry">
+
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico?v=2">
+	<link rel="icon" type="image/png" href="images/favicon.png?v=2">
+	<link rel="shortcut icon" href="images/favicon.ico?v=2">
 
 	<!-- Font Imports -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">
+	<link
+		href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap"
+		rel="stylesheet">
 	<link rel="stylesheet" href="https://use.typekit.net/drn4uvf.css">
-	
 	<!-- Core Style -->
 	<link rel="stylesheet" href="style.css">
+
 	<!-- Font Icons -->
 	<link rel="stylesheet" href="css/font-icons.css">
+
 	<!-- Plugins/Components CSS -->
 	<link rel="stylesheet" href="css/swiper.css">
+
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="css/custom.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!-- Document Title -->
-	<title>Thank You | The Social Chapel</title>
-</head>
+	<!-- Document Title
+	============================================= -->
+	<title>Thank You - Other Events | The Social Chapel</title>
 
+</head>
 <style>
 	@media (max-width: 767px) {
 		.body-container {
 			margin: 0 0 0 0;
 			width: 100% !important;
+
 		}
 
 		.eb-container {
@@ -52,6 +64,11 @@
 			flex-direction: column-reverse;
 			background-color: #212529 !important;
 		}
+
+		.pricing-section {
+			width: 100% !important;
+			padding: 20px 10px;
+		}
 	}
 
 	@media (min-width: 768px) {
@@ -71,6 +88,7 @@
 			background-color: #212529 !important;
 		}
 
+
 		.image-container {
 			width: 40%;
 			vertical-align: top;
@@ -87,22 +105,41 @@
 			width: 450px;
 			margin-top: 40px;
 		}
+
+		.pricing-section {
+			width: 100%;
+			padding: 40px 0;
+		}
 	}
 </style>
 
 <body class="stretched dark">
 
-	<!-- Document Wrapper -->
+	<!-- Break out of iframe script -->
+	<script>
+	// Break out of iframe if page is loaded inside one
+	if (window.top !== window.self) {
+		window.top.location.href = window.location.href;
+	}
+	</script>
+
+	<!-- Document Wrapper
+	============================================= -->
 	<div id="wrapper">
 
-		<!-- Header -->
+		<!-- Header
+		============================================= -->
 		<header id="header" class="full-header transparent-header">
 			<div id="header-wrap">
 				<div class="container">
 					<div class="header-row">
 
-						<!-- Logo -->
+						<!-- Logo
+						============================================= -->
 						<div id="logo">
+							<a href="index.html">
+								<img class="logo-default" srcset="images/logo.png, images/logo@2x.png 2x" src="images/logo@2x.png" alt="The Social Chapel Logo">
+							</a>
 						</div><!-- #logo end -->
 
 						<div class="header-misc">
@@ -114,53 +151,33 @@
 							</button>
 						</div>
 
-						<!-- Primary Navigation -->
+						<!-- Primary Navigation
+						============================================= -->
 						<nav class="primary-menu">
+
 							<ul class="menu-container">
 								<li class="menu-item">
-									<a class="menu-link" href="ytb-calendar.html">
-										<div>Calendar</div>
-									</a>
+									<a class="menu-link" href="index.html"><div>Gallery</div></a>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="ytb-gallery.html">
-										<div>Gallery</div>
-									</a>
+									<a class="menu-link" href="index.html"><div>3D Floor Plan & Video Tour</div></a>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="ourcanvas.html">
-										<div>3D Floor Plan &amp; Video Tour</div>
-									</a>
-								</li>
-								<li class="menu-item mega-menu">
-									<div id="menu-link">
-										<a href="index.html">
-											<img class="logo-default" srcset="images/logo.png, images/logo@2x.png 2x" src="images/logo@2x.png" alt="Canvas Logo">
-										</a>
-									</div>
-								</li>
-								<li class="menu-item mega-menu">
-									<a class="menu-link" href="ytb-vendors.html">
-										<div>Our Recommended Vendors</div>
-									</a>
-								</li>
-								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Event Packages</div></a>
+									<a class="menu-link" href="index.html"><div>Event Packages</div></a>
 									<ul class="sub-menu-container dark">
 										<li class="menu-item">
-											<a class="menu-link" href="ytb-wedding_form.html"><div><i class="bi-hypnotize"></i>Weddings & Quinceaneras</div></a>
+											<a class="menu-link" href="sc-wedding_form.html"><div><i class="bi-hypnotize"></i>Weddings & Quinceaneras</div></a>
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="ytb-other_events_form.html"><div><i class="bi-hypnotize"></i>Other Events</div></a>
+											<a class="menu-link" href="sc-other_events_form.html"><div><i class="bi-hypnotize"></i>Other Events</div></a>
 										</li>
 									</ul>
 								</li>
 								<li class="menu-item mega-menu">
-									<a class="menu-link" href="ytb-contact.html">
-										<div>Contact-Schedule Your VIP Tour</div>
-									</a>
+									<a class="menu-link" href="index.html"><div>Contact-Schedule Your VIP Tour</div></a>
 								</li>
 							</ul>
+
 						</nav><!-- #primary-menu end -->
 
 					</div>
@@ -170,92 +187,111 @@
 		</header><!-- #header end -->
 		
 		<div class="container" style="padding-top: 100px;">
-			<div class="row" style="text-align: center !important;">
-				<h2>Thank You</h2>
-			</div>
-			<div class="row" style="text-align: center !important;">
-				<p>Thank You For Completing The Form <br> Sit pretty, our team will text you more information soon!</p>
-			</div>
-			
 			<!-- PDF Pricing Brochure Section -->
 			<div class="pricing-section" style="margin-top: 40px; margin-bottom: 40px;">
 				<div class="row" style="text-align: center !important; margin-bottom: 30px;">
-					<h3 style="color: white;">Here Are Your Complete Event Packages</h3>
+					<h3 style="color: white;">Here Are Your Complete Other Events Packages</h3>
 					<p style="color: #ccc;">Browse through all our pricing options and packages below:</p>
 				</div>
 				<div class="row" style="text-align: center !important;">
 					<div class="col-12">
-						<iframe src="https://drive.google.com/file/d/1Vx7YX9P7fePSfpbKrQMhNRwO5M_gobib/preview" 
-								width="100%" 
-								height="800" 
-								frameborder="0" 
-								style="max-width: 1000px; margin: 0 auto; display: block; border-radius: 10px;">
-							Loading PDF...
-						</iframe>
+						<iframe src="https://drive.google.com/file/d/1Vx7YX9P7fePSfpbKrQMhNRwO5M_gobib/preview" width="100%" height="800" frameborder="0" style="max-width: 1000px; margin: 0 auto; display: block; border-radius: 10px;">Loading PDF...</iframe>
 					</div>
 				</div>
 			</div>
-		</div>
-						
-		<!-- Footer -->
-		<footer id="footer" class="dark">
-			<div class="container">
+
+			<!-- Call to Action -->
+			<div class="row" style="text-align: center !important; margin-top: 40px; margin-bottom: 60px;">
+				<div class="col-12">
+					<h4 style="color: #fff; margin-bottom: 20px;">Ready to Book Your Event?</h4>
+					<a href="index.html" class="button button-large button-rounded" style="background-color: #d4af37; color: #000; padding: 15px 30px; text-decoration: none; display: inline-block; margin: 10px; border-radius: 25px;">Schedule Your VIP Tour</a>
+					<a href="tel:3214235839" class="button button-large button-rounded" style="background-color: transparent; border: 2px solid #d4af37; color: #d4af37; padding: 15px 30px; text-decoration: none; display: inline-block; margin: 10px; border-radius: 25px;">Call (321) 423-5839</a>
+				</div>
 			</div>
 
-			<!-- Copyrights -->
+		</div>
+						
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+			<div class="container">
+
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
 			<div id="copyrights">
 				<div class="container">
+
 					<div class="row col-mb-30">
+
 						<div class="col-md-6 text-center text-md-start">
 							Copyrights &copy; The Social Chapel - All Rights Reserved.<br>
-							<div class="copyright-links">
-								<a href="http://majinnmultiservicemastery.com">Powered By</a> / 
-								<a href="http://majinnmultiservicemastery.com">MajinnMultiserviceMastery.com</a>
+							<div class="copyright-links"><a href="http://majinnmultiservicemastery.com">Powered
+									By</a> / <a
+									href="http://majinnmultiservicemastery.com">MajinnMultiserviceMastery.com</a>
 							</div>
 						</div>
 
 						<div class="col-md-6 text-center text-md-end">
 							<div class="d-flex justify-content-center justify-content-md-end mb-2">
-								<a href="https://www.facebook.com/YoursTrulyBallroom" class="social-icon border-transparent si-small h-bg-facebook">
+								<a href="https://www.facebook.com/YoursTrulyBallroom"
+									class="social-icon border-transparent si-small h-bg-facebook">
 									<i class="fa-brands fa-facebook-f"></i>
 									<i class="fa-brands fa-facebook-f"></i>
 								</a>
-								<a href="https://www.instagram.com/yourstrulyballroom" class="social-icon border-transparent si-small h-bg-instagram">
+
+								<a href="https://www.instagram.com/yourstrulyballroom"
+									class="social-icon border-transparent si-small h-bg-instagram">
 									<i class="bi-instagram"></i>
 									<i class="bi-instagram"></i>
 								</a>
-								<a href="https://www.tiktok.com/t/ZT82VodA5/" class="social-icon border-transparent si-small h-bg-tiktok">
+
+								<a href="https://www.tiktok.com/t/ZT82VodA5/"
+									class="social-icon border-transparent si-small h-bg-tiktok">
 									<i class="fa-brands fa-tiktok"></i>
 									<i class="fa-brands fa-tiktok"></i>
 								</a>
-								<a href="https://www.snapchat.com/add/yourstrulyballr?share_id=TfFB-wEasOs&locale=en-US" class="social-icon border-transparent si-small h-bg-snapchat">
+
+								<a href="https://www.snapchat.com/add/yourstrulyballr?share_id=TfFB-wEasOs&locale=en-US"
+									class="social-icon border-transparent si-small h-bg-snapchat">
 									<i class="fa-brands fa-snapchat"></i>
 									<i class="fa-brands fa-snapchat"></i>
 								</a>
-								<a href="https://www.youtube.com/@yourstrulyballroom3971" class="social-icon border-transparent si-small h-bg-youtube">
+
+								<a href="https://www.youtube.com/@yourstrulyballroom3971"
+									class="social-icon border-transparent si-small h-bg-youtube">
 									<i class="fa-brands fa-youtube"></i>
 									<i class="fa-brands fa-youtube"></i>
 								</a>
-								<a href="https://www.pinterest.com/photoswithloveyourstruly/" class="social-icon border-transparent si-small h-bg-pinterest">
+
+								<a href="https://www.pinterest.com/photoswithloveyourstruly/"
+									class="social-icon border-transparent si-small h-bg-pinterest">
 									<i class="fa-brands fa-pinterest-p"></i>
 									<i class="fa-brands fa-pinterest-p"></i>
 								</a>
+
 							</div>
 
-							<i class="bi-envelope"></i> Thesocialchapel@gmail.com <span class="middot">&middot;</span> 
-							<i class="fa-solid fa-phone"></i> (321) 423-5839 <span class="middot">&middot;</span>
+							<i class="bi-envelope"></i> Thesocialchapel@gmail.com <span
+								class="middot">&middot;</span> <i class="fa-solid fa-phone"></i> (321) 423-5839
+							<span class="middot">&middot;</span>
 						</div>
+
 					</div>
+
 				</div>
 			</div><!-- #copyrights end -->
 		</footer><!-- #footer end -->
 
 	</div><!-- #wrapper end -->
 
-	<!-- Go To Top -->
+	<!-- Go To Top
+	============================================= -->
 	<div id="gotoTop" class="uil uil-angle-up"></div>
 
-	<!-- JavaScripts -->
+	<!-- JavaScripts
+	============================================= -->
 	<script src="js/functions.js"></script>
 
 </body>
